@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.0)
 
+# Na dúvida, coloque o Include Guard
+
 project(nt_vision VERSION 1.0)
 
 add_subdirectory(../nt-io nt-io)
